@@ -44,5 +44,3 @@ This project demonstrates how early PRNG methods work and highlights their limit
 
 ---
 
-## Author
-**Avash Pradhan**
